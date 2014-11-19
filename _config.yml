@@ -1,0 +1,12 @@
+# Site settings
+title: Walnut Blog
+email: info@walnuthost.uk
+description: > # this means to ignore newlines until "baseurl:"
+  This is a crappy site description. To be edited. Later. When I can be bothered.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  walnutweb
+
+# Build settings
+markdown: kramdown
